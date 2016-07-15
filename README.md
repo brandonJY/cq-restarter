@@ -1,0 +1,1 @@
+Script for AEM/CQ restart. Upon startup completed, send an email notification.
